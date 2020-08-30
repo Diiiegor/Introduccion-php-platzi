@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73cfaf2c-e7c8-40ba-9fad-9da530167c1b" name="Default Changelist" comment="" />
+    <list default="true" id="73cfaf2c-e7c8-40ba-9fad-9da530167c1b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +13,9 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -36,6 +42,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1gjlpjvTNQHDXuYbaU40SiYVypL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -66,7 +73,8 @@
       <workItem from="1598670532028" duration="3027000" />
       <workItem from="1598675280860" duration="1198000" />
       <workItem from="1598813653006" duration="3125000" />
-      <workItem from="1598820182360" duration="7943000" />
+      <workItem from="1598820182360" duration="8648000" />
+      <workItem from="1598830738218" duration="289000" />
     </task>
     <servers />
   </component>
